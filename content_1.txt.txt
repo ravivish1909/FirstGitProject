@@ -1,5 +1,6 @@
-This is the first line created by user_1.
+This is the first line created by user_1. Some new changes
 Changes made be second user.
 This is new line to go ahead in local master.
 This is new line to go ahead in local master.
 This is another new line to go ahead in local master.
+Now user 1 is pushing without pulling.
