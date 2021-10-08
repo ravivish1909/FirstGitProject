@@ -4,3 +4,4 @@ This is new line to go ahead in local master.
 This is new line to go ahead in local master.
 This is another new line to go ahead in local master.
 Now user 1 is pushing without pulling.
+something else added by user 2
